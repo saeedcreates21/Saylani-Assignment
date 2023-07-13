@@ -1,0 +1,17 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.abc{
+    padding: 10px;
+    color: white;
+    width: 65%;
+    margin: 10px auto;
+    background-color: blueviolet;
+}
+
+.efg{
+    color: blueviolet;
+    text-decoration: underline;
+    text-align: center;
+}
